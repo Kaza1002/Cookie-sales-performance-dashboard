@@ -28,6 +28,6 @@ This project is an interactive Power BI dashboard analyzing cookie sales perform
 - 30% of products are classified as **Low Demand**
 
 
-## 📷 Preview
+## Preview
 
 ![image](https://github.com/user-attachments/assets/becabcfc-d3ca-4414-adf4-d2f3317d3f33)
